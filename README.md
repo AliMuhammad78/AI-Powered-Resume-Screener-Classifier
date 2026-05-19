@@ -1,6 +1,4 @@
- 
-
-```markdown
+ ```markdown
 # 🤖 AI-Powered Resume Screener & Classifier
 
 An intelligent, full-stack recruitment solution designed to automate candidate resume screening and categorization. By leveraging a structural Flask backend pipeline alongside a reactive user interface, the platform optimizes candidate evaluation through dynamic machine learning model switching and a specialized hybrid scoring engine.
@@ -47,7 +45,7 @@ An intelligent, full-stack recruitment solution designed to automate candidate r
 
 ---
 
-## 📊 The Scoring Logic: Hybrid Math Engine
+##  📊 The Scoring Logic: Hybrid Math Engine
 
 To provide an objective metric rather than relying blindly on black-box ML predictions, the system computes candidate suitability using a rigid hybrid matrix:
 
