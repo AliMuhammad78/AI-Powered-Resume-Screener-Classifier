@@ -1,0 +1,42 @@
+{
+    "Naive Bayes": {
+        "accuracy": 99.32,
+        "precision": 99.34,
+        "recall": 99.34,
+        "f1_score": 99.34,
+        "training_time": 0.0173,
+        "prediction_speed": 0.0048
+    },
+    "Logistic Regression": {
+        "accuracy": 100.0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0,
+        "training_time": 0.4987,
+        "prediction_speed": 0.0093
+    },
+    "Random Forest": {
+        "accuracy": 100.0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1_score": 100.0,
+        "training_time": 1.9227,
+        "prediction_speed": 0.0213
+    },
+    "Support Vector Machine": {
+        "accuracy": 99.48,
+        "precision": 99.5,
+        "recall": 99.49,
+        "f1_score": 99.49,
+        "training_time": 47.8146,
+        "prediction_speed": 1.2803
+    },
+    "K-Nearest Neighbors": {
+        "accuracy": 18.96,
+        "precision": 67.77,
+        "recall": 19.25,
+        "f1_score": 27.1,
+        "training_time": 0.006,
+        "prediction_speed": 0.5142
+    }
+}
