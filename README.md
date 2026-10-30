@@ -1,7 +1,7 @@
 # 🤖 Talent_ScanAI | AI-Powered Resume Screener & Classifier
 
 <div align="center">
-
+  
   **An Intelligent Resume Screening, Classification & Ranking System**
 
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
